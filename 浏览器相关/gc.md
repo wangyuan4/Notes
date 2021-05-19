@@ -11,7 +11,7 @@
 
 ### var 变量
 
-![image](https://github.com/wangyuan4/Notes/images/var.image)
+![image](https://github.com/wangyuan4/Notes/images/var.png)
 
 function multiplyByTen(number) {
   console.log(ten); // => undefined
